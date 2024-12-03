@@ -57,7 +57,7 @@ jobs:
           projectBaseDir: .  # Diretório do projeto
           args: >
             -Dsonar.organization=filipeabmoura
-            -Dsonar.projectKey=filipeabmoura_tdd
+            -Dsonar.projectKey=filipeabmoura_tdd-romano
             -Dsonar.python.coverage.reportPaths=coverage.xml
             -Dsonar.sources=.
             -Dsonar.tests=.
